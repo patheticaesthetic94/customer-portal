@@ -11,4 +11,10 @@
         "name": "PleaseReview",
         "category": "Collaboration"
     }
+    {
+        "homeUrl": "https://example.com/product2",
+        "icon": "https://theme.zdassets.com/theme_assets/9314887/169137d600bb16aa14ff655a77d4fd1ea46a9e14.svg",
+        "name": "WorkRite",
+        "category": "Collaboration"
+    }
 ]
