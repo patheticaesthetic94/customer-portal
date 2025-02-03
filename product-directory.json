@@ -1,20 +1,20 @@
 [
     {
-        "homeUrl": "https://example.com/product1",
+        "homeUrl": "https://community.ideagen.com/ideagen-quality-management-professional-40",
         "icon": "https://theme.zdassets.com/theme_assets/9314887/fa6fe74c30f4f71d1003b8cb1998312665b93e4f.svg",
         "name": "Quality Management: Professional",
         "category": "Quality"
     },
     {
-        "homeUrl": "https://example.com/product2",
+        "homeUrl": "https://community.ideagen.com/ideagen-pleasereview-46",
         "icon": "https://theme.zdassets.com/theme_assets/9314887/169137d600bb16aa14ff655a77d4fd1ea46a9e14.svg",
         "name": "PleaseReview",
         "category": "Collaboration"
     },
     {
-        "homeUrl": "https://example.com/product2",
-        "icon": "https://theme.zdassets.com/theme_assets/9314887/169137d600bb16aa14ff655a77d4fd1ea46a9e14.svg",
+        "homeUrl": "https://community.ideagen.com/ideagen-workrite-57",
+        "icon": "https://theme.zdassets.com/theme_assets/9314887/9165acd83ee62a3749832b0b3cc95f67d43f9586.svg",
         "name": "WorkRite",
-        "category": "Collaboration"
+        "category": "Compliance"
     }
 ]
