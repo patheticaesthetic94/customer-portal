@@ -1,0 +1,14 @@
+[
+    {
+        "homeUrl": "https://example.com/product1",
+        "icon": "https://theme.zdassets.com/theme_assets/9314887/fa6fe74c30f4f71d1003b8cb1998312665b93e4f.svg",
+        "name": "Quality Management: Professional",
+        "category": "Quality"
+    },
+    {
+        "homeUrl": "https://example.com/product2",
+        "icon": "https://theme.zdassets.com/theme_assets/9314887/169137d600bb16aa14ff655a77d4fd1ea46a9e14.svg",
+        "name": "PleaseReview",
+        "category": "Collaboration"
+    }
+]
