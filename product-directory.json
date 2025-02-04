@@ -1,4 +1,18 @@
 {
+    "Audit and risk": {
+        "Audit Analytics": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/14d83f611dccb8de5299d498b56d37dc82812cea.svg",
+                "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Audit%20Analytics.svg",
+                "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenAuditAnalytics.svg"
+            },
+            "url": {
+                "community": "https://community.ideagen.com/ideagen-audit-analytics-85",
+                "help": "https://auditanalytics.help.ideagen.com/hc",
+                "support": "https://auditanalytics.help.ideagen.com/hc/support"
+            }
+        }
+    },
     "Quality": {
         "Quality Management": {
             "Professional": {
