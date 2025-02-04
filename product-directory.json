@@ -22,6 +22,17 @@
                 "help": "https://complispace.help.ideagen.com/hc",
                 "support": "https://complispace.help.ideagen.com/hc/support"
             }
+        },
+        "InPhase": {
+            "images": {
+                "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_generic.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://inphase.help.ideagen.com/hc",
+                "support": "https://inphase.help.ideagen.com/hc/support"
+            }
         }
     },
     "Quality": {
