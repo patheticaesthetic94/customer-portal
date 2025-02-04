@@ -1,27 +1,59 @@
 [
-    {
-        "icon": "https://theme.zdassets.com/theme_assets/9314887/fa6fe74c30f4f71d1003b8cb1998312665b93e4f.svg",
-        "name": "Quality Management: Professional",
-        "category": "Quality",
-        "url": [
-        {
-        "community": "https://community.ideagen.com/ideagen-quality-management-professional-40",
-        "help": "https://community.ideagen.com/ideagen-quality-management-professional-40",
-        "skills": "https://community.ideagen.com/ideagen-quality-management-professional-40",
-        "support": "https://community.ideagen.com/ideagen-quality-management-professional-40"
+    "Quality": {
+        "Quality Management": {
+            "Professional": {
+                "images": {
+                    "icon": "https://theme.zdassets.com/theme_assets/9314887/fa6fe74c30f4f71d1003b8cb1998312665b93e4f.svg",
+                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Quality%20Management.svg",
+                    "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityManagementProfessional.svg"
+                }
+                "url": {
+                    "community": "https://community.ideagen.com/ideagen-quality-management-professional-40",
+                    "help": "https://iqm-pro.help.ideagen.com/hc",
+                    "skills": "https://skills.ideagen.com/catalog/offset/0,undefined/category/33/type/curriculum",
+                    "support": "https://iqm-pro.help.ideagen.com/hc/p/support"
+                }
+            }
+            "Essentials": {
+                "images": {
+                    "icon": "https://theme.zdassets.com/theme_assets/9314887/fa6fe74c30f4f71d1003b8cb1998312665b93e4f.svg",
+                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Quality%20Management.svg",
+                    "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityManagementProfessional.svg"
+                }
+                "url": {
+                    "community": "https://community.ideagen.com/ideagen-quality-management-essentials-81",
+                    "help": "https://iqm-ess.help.ideagen.com/hc",
+                    "support": "https://iqm-ess.help.ideagen.com/hc/p/support"
+                }
+            }
         }
-        ]
     },
-    {
-        "homeUrl": "https://community.ideagen.com/ideagen-pleasereview-46",
-        "icon": "https://theme.zdassets.com/theme_assets/9314887/169137d600bb16aa14ff655a77d4fd1ea46a9e14.svg",
-        "name": "PleaseReview",
-        "category": "Collaboration"
+    "Collaboration": {
+        "PleaseReview": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/169137d600bb16aa14ff655a77d4fd1ea46a9e14.svg",
+                "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_PleaseReview.svg",
+                "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenPleaseReview.svg"
+            }
+            "url": {
+                "community": "https://community.ideagen.com/ideagen-pleasereview-46",
+                "help": "https://pleasereview.help.ideagen.com/hc",
+                "support": "https://pleasereview.help.ideagen.com/hc/support"
+            }
+        }
     },
-    {
-        "homeUrl": "https://community.ideagen.com/ideagen-workrite-57",
-        "icon": "https://theme.zdassets.com/theme_assets/9314887/9165acd83ee62a3749832b0b3cc95f67d43f9586.svg",
-        "name": "WorkRite",
-        "category": "Compliance"
+    "Compliance": {
+        "WorkRite": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/9165acd83ee62a3749832b0b3cc95f67d43f9586.svg",
+                "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_WorkRite.svg",
+                "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenWorkRite.svg"
+            }
+            "url": {
+                "community": "https://community.ideagen.com/ideagen-workrite-57",
+                "help": "https://workrite.help.ideagen.com/hc",
+                "support": "https://workrite.help.ideagen.com/hc/support"
+            }
+        }
     }
 ]
