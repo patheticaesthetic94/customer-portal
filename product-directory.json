@@ -11,6 +11,17 @@
                 "help": "https://auditanalytics.help.ideagen.com/hc",
                 "support": "https://auditanalytics.help.ideagen.com/hc/support"
             }
+        },
+        "CompliSpace": {
+            "images": {
+                "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_complispace.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://complispace.help.ideagen.com/hc",
+                "support": "https://complispace.help.ideagen.com/hc/support"
+            }
         }
     },
     "Quality": {
