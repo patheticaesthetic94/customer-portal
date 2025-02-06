@@ -120,6 +120,92 @@
         }
     },
     "Quality": {
+        "Coruson": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/8424b69563b35bb6fb8b28491a29b844246e82c8.svg",
+                "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ideagenCoruson.svg",
+                "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenCoruson.svg"
+            },
+            "url": {
+                "community": "https://community.ideagen.com/ideagen-coruson-102",
+                "help": "https://coruson.help.ideagen.com/hc",
+                "support": "https://coruson.help.ideagen.com/hc/support"
+            }
+        },
+        "Smartforms": {
+            "Professional": {
+                "alt-names": ["mobile impact platform", "mi-co", "mico", "mi co"],
+                "images": {
+                    "icon": "https://theme.zdassets.com/theme_assets/9314887/82ba1a93e35c6cb6944bead89b86d85db0d2671a.svg",
+                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Smartforms.svg",
+                    "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenSmartformsProfessional.svg"
+                },
+                "url": {
+                    "community": "https://community.ideagen.com/ideagen-smartforms-professional-90",
+                    "help": "https://smartforms-pro.help.ideagen.com/hc",
+                    "support": "https://smartforms-pro.help.ideagen.com/hc/p/support"
+                }
+            },
+            "Essentials": {
+                "alt-names": ["mobile impact platform", "mi-co", "mico", "mi co"],
+                "images": {
+                    "icon": "https://theme.zdassets.com/theme_assets/9314887/82ba1a93e35c6cb6944bead89b86d85db0d2671a.svg",
+                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Smartforms.svg",
+                    "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenSmartformsProfessional.svg"
+                },
+                "url": {
+                    "help": "https://smartforms-ess.help.ideagen.com/hc",
+                    "support": "https://smartforms-ess.help.ideagen.com/hc/p/support"
+                }
+            }
+        },
+        "Supplier Management": {
+            "images": {
+                "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_generic.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://ism.help.ideagen.com/hc",
+                "support": "https://ism.help.ideagen.com/hc/support"
+            }
+        },
+        "Quality Control": {
+            "Professional": {
+                "alt-names": ["inspectionxpert", "ixcloud", "q-pulse supplier portal", "sp", "pm"],
+                "images": {
+                    "icon": "https://theme.zdassets.com/theme_assets/9314887/a13cc16996e13b1df453292a58c3d0ead95f2b4b.svg",
+                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Quality%20Control.svg",
+                    "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityControlProfessional.svg"
+                },
+                "url": {
+                    "community": "https://community.ideagen.com/ideagen-quality-control-professional-105"
+                }
+            },
+            "Enterprise": {
+                "alt-names": ["inspectionxpert", "ixcloud", "q-pulse supplier portal", "sp", "pm"],
+                "images": {
+                    "icon": "https://theme.zdassets.com/theme_assets/9314887/a13cc16996e13b1df453292a58c3d0ead95f2b4b.svg",
+                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Quality%20Control.svg",
+                    "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityControlProfessional.svg"
+                },
+                "url": {
+                    "help": "https://iqc-ent.help.ideagen.com/hc",
+                    "support": "https://iqc-ent.help.ideagen.com/hc/support"
+                }
+            },
+            "Essentials": {
+                "alt-names": ["inspectionxpert", "ixcloud", "q-pulse supplier portal", "sp", "pm"],
+                "images": {
+                    "icon": "https://theme.zdassets.com/theme_assets/9314887/a13cc16996e13b1df453292a58c3d0ead95f2b4b.svg",
+                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Quality%20Control.svg",
+                    "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityControlProfessional.svg"
+                },
+                "url": {
+                    "community": "https://community.ideagen.com/ideagen-quality-control-essentials-95",
+                }
+            }
+        },
         "Quality Management": {
             "Professional": {
                 "alt-names": ["q-pulse", "qpulse", "iqm pro", "cloud", "legacy"],
@@ -136,6 +222,7 @@
                 }
             },
             "Essentials": {
+                "alt-names": ["qualtrax"],
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/fa6fe74c30f4f71d1003b8cb1998312665b93e4f.svg",
                     "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Quality%20Management.svg",
@@ -147,7 +234,18 @@
                     "support": "https://iqm-ess.help.ideagen.com/hc/p/support"
                 }
             }
-        }
+        },
+        "Qualsys": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/6b9ecfa1c1833e63336e6e6a6eb2e53ebd0c1d14.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://qualsys.help.ideagen.com/hc",
+                "support": "https://qualsys.help.ideagen.com/hc/support"
+            }
+        },
     },
     "Collaboration": {
         "EasySite": {
@@ -292,6 +390,19 @@
             "url": {
                 "help": "https://tritan.help.ideagen.com/hc",
                 "support": "https://tritan.help.ideagen.com/hc/support"
+            }
+        }
+    },
+    "Other": {
+        "Ideagen Academy": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/f006c530440e2303c24043b48c394953b9a4a046.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://academy.help.ideagen.com/hc",
+                "support": "https://academy.help.ideagen.com/hc/support"
             }
         }
     }
