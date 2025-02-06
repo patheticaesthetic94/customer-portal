@@ -1,0 +1,22 @@
+<svg xml:space="preserve" style="enable-background:new 0 0 300 300;" viewBox="0 0 300 300" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="Layer_1" version="1.1">
+<style type="text/css">
+	.st0{fill:#364555;}
+	.st1{fill:#212E38;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<g>
+			<polygon points="20.5,75.3 20.5,225.4 150.5,300.5 280.5,225.4 280.5,75.3 150.5,0.3" class="st0"/>
+			<polygon points="20.5,225.4 150.5,300.4 280.5,225.4 280.5,75.3" class="st1"/>
+		</g>
+	</g>
+</g>
+<g>
+	<path d="M171.7,114.6c4.7-5.2,7.6-12.1,7.6-19.6c0-16.1-13.1-29.2-29.2-29.2S120.9,78.9,120.9,95   c0,7.5,2.8,14.4,7.5,19.5L171.7,114.6z" class="st2"/>
+	<path d="M67.4,130.1h38.7c0,0,45.8,4.9,45.8,50.3V235h-18.3v-52.4c0,0-0.3-29-31.4-33.5H67.4V130.1z" class="st2"/>
+	<path d="M137.6,130.1h93.9V149h-75.3C156.2,149,149.1,138.4,137.6,130.1z" class="st2"/>
+	<rect height="19.8" width="34.5" class="st2" y="170.7" x="164.1"/>
+	<rect height="19.5" width="18.9" class="st2" y="215.5" x="165.6"/>
+</g>
+</svg>
