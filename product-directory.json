@@ -84,6 +84,41 @@
             }
         }
     },
+    "Clinical": {
+        "Dart": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/53a6597e9320647f6419ca30dfd21483a4aa57df.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://dart.help.ideagen.com/hc",
+                "support": "https://dart.help.ideagen.com/hc/support"
+            }
+        },
+        "Medforce": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/1439600d852c79828ca9c8250cc004748ebc6b83.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://medforce.help.ideagen.com/hc",
+                "support": "https://medforce.help.ideagen.com/hc/support"
+            }
+        },
+        "PatientFirst": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/387cb49858f62372745b9ee3416de6231104aff9.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://patientfirst.help.ideagen.com/hc",
+                "support": "https://patientfirst.help.ideagen.com/hc/support"
+            }
+        }
+    },
     "Quality": {
         "Quality Management": {
             "Professional": {
