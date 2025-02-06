@@ -33,6 +33,55 @@
                 "help": "https://inphase.help.ideagen.com/hc",
                 "support": "https://inphase.help.ideagen.com/hc/support"
             }
+        },
+        "Internal Audit and Risk Management": {
+            "images": {
+                "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_auditandrisk.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://auditrisk.help.ideagen.com/hc",
+                "support": "https://auditrisk.help.ideagen.com/hc/support"
+            }
+        },
+        "Internal Audit": {
+            "Internal Audit": {
+                "alt-names": ["pentana audit"],
+                "images": {
+                    "icon": "https://theme.zdassets.com/theme_assets/9314887/55a6be2da7c311cdf93881ad262a272a8ad4ec55.svg",
+                    "ident": "",
+                    "logo": ""
+                },
+                "url": {
+                    "help": "https://internalaudit.help.ideagen.com/hc",
+                    "support": "https://internalaudit.help.ideagen.com/hc/p/support"
+                }
+            },
+            "Internal Audit MK": {
+                "alt-names": ["pentana audit mk", "morgan kai insight", "mkinsight"],
+                "images": {
+                    "icon": "https://theme.zdassets.com/theme_assets/9314887/55a6be2da7c311cdf93881ad262a272a8ad4ec55.svg",
+                    "ident": "",
+                    "logo": ""
+                },
+                "url": {
+                    "help": "https://internalaudit-mk.help.ideagen.com/hc",
+                    "support": "https://internalaudit-mk.help.ideagen.com/hc/p/support"
+                }
+            }
+        },
+        "Risk Management": {
+            "alt-names": ["pentana risk", "pentana performance"],
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/c43597632d96d278e12e649ed852bac6a4ad60a8.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://riskmanagement.help.ideagen.com/hc",
+                "support": "https://riskmanagement.help.ideagen.com/hc/support"
+            }
         }
     },
     "Quality": {
