@@ -233,5 +233,66 @@
                 "support": "https://workrite.help.ideagen.com/hc/support"
             }
         }
+    },
+    "EHS": {
+        "EHS": {
+            "alt-names": ["processmap", "process map"],
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/a101e3e01e2dcd26f28341e6137f097ecb62e47e.svg",
+                "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Environment%20health%20and%20safety.svg",
+                "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenEHS.svg"
+            },
+            "url": {
+                "community": "https://community.ideagen.com/ideagen-ehs-59",
+                "help": "https://ehs.help.ideagen.com/hc",
+                "support": "https://ehs.help.ideagen.com/hc/support"
+            }
+        },
+        "OSHENS": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/e78c4cb08824d4fe26e2e8fa0fdc9f946e3b6076.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://oshens.help.ideagen.com/hc",
+                "support": "https://oshens.help.ideagen.com/hc/support"
+            }
+        },
+        "Plant Assessor": {
+            "images": {
+                "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_generic.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://plantassessor.help.ideagen.com/hc",
+                "support": "https://plantassessor.help.ideagen.com/hc/support"
+            }
+        },
+        "Q-Pulse EHS": {
+            "alt-names": ["ehs scannell"],
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/43f3148f4d4707427a9d0d35bb39dd02b2d33a4f.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://qpulseehs.help.ideagen.com/hc",
+                "support": "https://qpulseehs.help.ideagen.com/hc/support"
+            }
+        },
+        "Trident": {
+            "alt-names": ["maritime"],
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/ecf483d15d6697278c4d72a25398a62967864c05.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://tritan.help.ideagen.com/hc",
+                "support": "https://tritan.help.ideagen.com/hc/support"
+            }
+        }
     }
 }
