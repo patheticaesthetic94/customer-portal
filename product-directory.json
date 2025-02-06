@@ -88,7 +88,7 @@
         "Dart": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/53a6597e9320647f6419ca30dfd21483a4aa57df.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_dart.svg",
                 "logo": ""
             },
             "url": {
@@ -99,7 +99,7 @@
         "Medforce": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/1439600d852c79828ca9c8250cc004748ebc6b83.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_medforce.svg",
                 "logo": ""
             },
             "url": {
@@ -110,7 +110,7 @@
         "PatientFirst": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/387cb49858f62372745b9ee3416de6231104aff9.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_patientfirst.svg",
                 "logo": ""
             },
             "url": {
@@ -123,7 +123,7 @@
         "Coruson": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/8424b69563b35bb6fb8b28491a29b844246e82c8.svg",
-                "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ideagenCoruson.svg",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_coruson.svg",
                 "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenCoruson.svg"
             },
             "url": {
@@ -137,7 +137,7 @@
                 "alt-names": ["mobile impact platform", "mi-co", "mico", "mi co"],
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/82ba1a93e35c6cb6944bead89b86d85db0d2671a.svg",
-                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Smartforms.svg",
+                    "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_smartforms.svg",
                     "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenSmartformsProfessional.svg"
                 },
                 "url": {
@@ -150,7 +150,7 @@
                 "alt-names": ["mobile impact platform", "mi-co", "mico", "mi co"],
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/82ba1a93e35c6cb6944bead89b86d85db0d2671a.svg",
-                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Smartforms.svg",
+                    "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_smartforms.svg",
                     "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenSmartformsProfessional.svg"
                 },
                 "url": {
@@ -162,7 +162,7 @@
         "Supplier Management": {
             "images": {
                 "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_generic.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_generic.svg",
                 "logo": ""
             },
             "url": {
@@ -175,7 +175,7 @@
                 "alt-names": ["inspectionxpert", "ixcloud", "q-pulse supplier portal", "sp", "pm"],
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/a13cc16996e13b1df453292a58c3d0ead95f2b4b.svg",
-                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Quality%20Control.svg",
+                    "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_qualitycontrol.svg",
                     "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityControlProfessional.svg"
                 },
                 "url": {
@@ -186,7 +186,7 @@
                 "alt-names": ["inspectionxpert", "ixcloud", "q-pulse supplier portal", "sp", "pm"],
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/a13cc16996e13b1df453292a58c3d0ead95f2b4b.svg",
-                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Quality%20Control.svg",
+                    "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_qualitycontrol.svg",
                     "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityControlProfessional.svg"
                 },
                 "url": {
@@ -198,7 +198,7 @@
                 "alt-names": ["inspectionxpert", "ixcloud", "q-pulse supplier portal", "sp", "pm"],
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/a13cc16996e13b1df453292a58c3d0ead95f2b4b.svg",
-                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Quality%20Control.svg",
+                    "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_qualitycontrol.svg",
                     "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityControlProfessional.svg"
                 },
                 "url": {
@@ -211,7 +211,7 @@
                 "alt-names": ["q-pulse", "qpulse", "iqm pro", "cloud", "legacy"],
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/fa6fe74c30f4f71d1003b8cb1998312665b93e4f.svg",
-                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Quality%20Management.svg",
+                    "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_qualitymanagement.svg",
                     "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityManagementProfessional.svg"
                 },
                 "url": {
@@ -225,7 +225,7 @@
                 "alt-names": ["qualtrax"],
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/fa6fe74c30f4f71d1003b8cb1998312665b93e4f.svg",
-                    "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Quality%20Management.svg",
+                    "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_qualitymanagement.svg",
                     "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityManagementProfessional.svg"
                 },
                 "url": {
@@ -238,7 +238,7 @@
         "Qualsys": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/6b9ecfa1c1833e63336e6e6a6eb2e53ebd0c1d14.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_qualsys.svg",
                 "logo": ""
             },
             "url": {
@@ -251,7 +251,7 @@
         "EasySite": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/9701266ab51096c6ef996ef42dba57d651358a52.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_easysite.svg",
                 "logo": ""
             },
             "url": {
@@ -262,7 +262,7 @@
         "Huddle™": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/6991d7618156e987653e587c1be03afe68996573.svg",
-                "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Huddle.svg",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_huddle.svg",
                 "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenHuddle.svg"
             },
             "url": {
@@ -274,7 +274,7 @@
         "MailManager": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/6ddb7154ee8bd3685df889d5c861b341feb699f2.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_mailmanager.svg",
                 "logo": ""
             },
             "url": {
@@ -285,7 +285,7 @@
         "PleaseReview": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/169137d600bb16aa14ff655a77d4fd1ea46a9e14.svg",
-                "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_PleaseReview.svg",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_pleasereview.svg",
                 "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenPleaseReview.svg"
             },
             "url": {
@@ -299,7 +299,7 @@
         "Disclose": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/d2bea7d59c19cae158920f0664a0e638d390ac2b.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_disclose.svg",
                 "logo": ""
             },
             "url": {
@@ -311,7 +311,7 @@
             "alt-names": ["ehs scannell"],
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/21b64cab39cca53a829c92bf5be7df22e31902ce.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_qpulselaw.svg",
                 "logo": ""
             },
             "url": {
@@ -322,7 +322,7 @@
         "WorkRite": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/9165acd83ee62a3749832b0b3cc95f67d43f9586.svg",
-                "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_WorkRite.svg",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_workrite.svg",
                 "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenWorkRite.svg"
             },
             "url": {
@@ -337,7 +337,7 @@
             "alt-names": ["processmap", "process map"],
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/a101e3e01e2dcd26f28341e6137f097ecb62e47e.svg",
-                "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Environment%20health%20and%20safety.svg",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_ehs.svg",
                 "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenEHS.svg"
             },
             "url": {
@@ -349,7 +349,7 @@
         "OSHENS": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/e78c4cb08824d4fe26e2e8fa0fdc9f946e3b6076.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_oshens.svg",
                 "logo": ""
             },
             "url": {
@@ -360,7 +360,7 @@
         "Plant Assessor": {
             "images": {
                 "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_generic.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_generic.svg",
                 "logo": ""
             },
             "url": {
@@ -372,7 +372,7 @@
             "alt-names": ["ehs scannell"],
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/43f3148f4d4707427a9d0d35bb39dd02b2d33a4f.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_qpulseehs.svg",
                 "logo": ""
             },
             "url": {
@@ -384,7 +384,7 @@
             "alt-names": ["maritime"],
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/ecf483d15d6697278c4d72a25398a62967864c05.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_trident.svg",
                 "logo": ""
             },
             "url": {
@@ -397,7 +397,7 @@
         "Ideagen Academy": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/f006c530440e2303c24043b48c394953b9a4a046.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_academy.svg",
                 "logo": ""
             },
             "url": {
