@@ -150,6 +150,40 @@
         }
     },
     "Collaboration": {
+        "EasySite": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/9701266ab51096c6ef996ef42dba57d651358a52.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://easysite.help.ideagen.com/hc",
+                "support": "https://easysite.help.ideagen.com/hc/support"
+            }
+        },
+        "Huddle™": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/6991d7618156e987653e587c1be03afe68996573.svg",
+                "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Huddle.svg",
+                "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenHuddle.svg"
+            },
+            "url": {
+                "community": "https://community.ideagen.com/ideagen-huddle-55",
+                "help": "https://huddle.zendesk.com/hc",
+                "support": "https://huddle.zendesk.com/hc/en-us/requests/new"
+            }
+        },
+        "MailManager": {
+            "images": {
+                "icon": "https://theme.zdassets.com/theme_assets/9314887/6ddb7154ee8bd3685df889d5c861b341feb699f2.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://mailmanager.help.ideagen.com/hc",
+                "support": "https://mailmanager.help.ideagen.com/hc/support"
+            }
+        },
         "PleaseReview": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/169137d600bb16aa14ff655a77d4fd1ea46a9e14.svg",
