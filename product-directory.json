@@ -3,7 +3,7 @@
         "Audit Analytics": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/14d83f611dccb8de5299d498b56d37dc82812cea.svg",
-                "ident": "https://dkzqv2h4biivh.cloudfront.net/images/products/icons/ID_Audit%20Analytics.svg",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_auditanalytics.svg",
                 "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenAuditAnalytics.svg"
             },
             "url": {
@@ -15,7 +15,7 @@
         "CompliSpace": {
             "images": {
                 "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_complispace.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_complispace.svg",
                 "logo": ""
             },
             "url": {
@@ -26,7 +26,7 @@
         "InPhase": {
             "images": {
                 "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_generic.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_generic.svg",
                 "logo": ""
             },
             "url": {
@@ -37,7 +37,7 @@
         "Internal Audit and Risk Management": {
             "images": {
                 "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_auditandrisk.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_internalauditandriskmanagement.svg",
                 "logo": ""
             },
             "url": {
@@ -50,7 +50,7 @@
                 "alt-names": ["pentana audit"],
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/55a6be2da7c311cdf93881ad262a272a8ad4ec55.svg",
-                    "ident": "",
+                    "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_internalaudit.svg",
                     "logo": ""
                 },
                 "url": {
@@ -62,7 +62,7 @@
                 "alt-names": ["pentana audit mk", "morgan kai insight", "mkinsight"],
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/55a6be2da7c311cdf93881ad262a272a8ad4ec55.svg",
-                    "ident": "",
+                    "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_internalaudit.svg",
                     "logo": ""
                 },
                 "url": {
@@ -75,7 +75,7 @@
             "alt-names": ["pentana risk", "pentana performance"],
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/c43597632d96d278e12e649ed852bac6a4ad60a8.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_riskmanagement.svg",
                 "logo": ""
             },
             "url": {
