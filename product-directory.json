@@ -214,6 +214,11 @@
                     "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_qualitymanagement.svg",
                     "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityManagementProfessional.svg"
                 },
+                "id": {
+                    "home": "iqm-pro",
+                    "community": "40",
+                    "help": "iqm-pro"
+                },
                 "url": {
                     "community": "https://community.ideagen.com/ideagen-quality-management-professional-40",
                     "help": "https://iqm-pro.help.ideagen.com/hc",
