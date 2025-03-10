@@ -398,16 +398,16 @@
                 "support": "https://qpulseehs.help.ideagen.com/hc/support"
             }
         },
-        "Trident": {
+        "Tritan": {
             "alt-names": ["maritime"],
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/ecf483d15d6697278c4d72a25398a62967864c05.svg",
-                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_trident.svg",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_tritan.svg",
                 "logo": ""
             },
             "id": {
-                "home": "trident",
-                "help": "trident"
+                "home": "tritan",
+                "help": "tritan"
             },
             "url": {
                 "help": "https://tritan.help.ideagen.com/hc",
