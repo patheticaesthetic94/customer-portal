@@ -405,6 +405,10 @@
                 "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_trident.svg",
                 "logo": ""
             },
+            "id": {
+                "home": "trident",
+                "help": "trident"
+            },
             "url": {
                 "help": "https://tritan.help.ideagen.com/hc",
                 "support": "https://tritan.help.ideagen.com/hc/support"
