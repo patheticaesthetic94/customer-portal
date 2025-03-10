@@ -409,6 +409,7 @@
                 "help": "tritan"
             },
             "url": {
+                "dashboard": "https://community.ideagen.com/p/for-you?solution=tritan",
                 "help": "https://tritan.help.ideagen.com/hc",
                 "support": "https://tritan.help.ideagen.com/hc/support"
             }
