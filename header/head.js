@@ -678,6 +678,21 @@ document.addEventListener("DOMContentLoaded", function() {
         return null;
     }
 
+    // Check eFront Learning conditions and get skills ID
+    function getSkillsId() {
+        try {
+            const urlObj = new URL(currentUrl);
+            const pattern = /ideagenstudy\.efrontlearning\.com\/catalog\/offset\/0,undefined\/category\/(\d+)\/type\/curriculum/;
+            const match = currentUrl.match(pattern);
+            if (match && match[1]) {
+                return match[1]; // Returns the category ID as string
+            }
+        } catch (e) {
+            console.error("Error parsing URL:", e);
+        }
+        return null;
+    }
+
     // Check if current URL is a support section
     function isSupportSection() {
         const supportPaths = [
@@ -697,6 +712,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const categoryId = getCommunityCategoryId();
         const eventsSolutionId = getEventsSolutionId();
         const zendeskSubdomain = getZendeskSubdomain();
+        const skillsId = getSkillsId();
 
         // Search through all products to find a match
         const products = findAllProducts(data);
@@ -733,6 +749,14 @@ document.addEventListener("DOMContentLoaded", function() {
             );
             if (zendeskMatch) return zendeskMatch;
         }
+        
+        if (skillsId) {
+            // Look for skills match (convert to string for comparison)
+            const skillsMatch = products.find(product => 
+                product.match.id && product.match.id.skills === skillsId.toString()
+            );
+            if (skillsMatch) return skillsMatch;
+        }
 
         return null;
     }
@@ -745,11 +769,13 @@ document.addEventListener("DOMContentLoaded", function() {
         const eventsPill = document.querySelector(".content-switch-pill#events");
         const helpPill = document.querySelector(".content-switch-pill#help");
         const supportPill = document.querySelector(".content-switch-pill#support");
+        const skillsPill = document.querySelector(".content-switch-pill#skills");
         
         const solutionId = getDashboardSolutionId();
         const categoryId = getCommunityCategoryId();
         const eventsSolutionId = getEventsSolutionId();
         const zendeskSubdomain = getZendeskSubdomain();
+        const skillsId = getSkillsId();
         const isSupport = isSupportSection();
         
         const isDashboardActive = solutionId !== null;
@@ -758,6 +784,7 @@ document.addEventListener("DOMContentLoaded", function() {
         let isZendeskActive = false;
         let isHelpActive = false;
         let isSupportActive = false;
+        let isSkillsActive = false;
         
         if (categoryId !== null && data) {
             const products = findAllProducts(data);
@@ -792,7 +819,15 @@ document.addEventListener("DOMContentLoaded", function() {
             }
         }
         
-        const shouldShowSubNav = isDashboardActive || isCommunityActive || isEventsActive || isZendeskActive;
+        if (skillsId !== null && data) {
+            const products = findAllProducts(data);
+            isSkillsActive = products.some(product => 
+                product.match.id && 
+                product.match.id.skills === skillsId.toString()
+            );
+        }
+        
+        const shouldShowSubNav = isDashboardActive || isCommunityActive || isEventsActive || isZendeskActive || isSkillsActive;
         
         if (subNav) {
             subNav.style.display = shouldShowSubNav ? "flex" : "none";
@@ -816,6 +851,10 @@ document.addEventListener("DOMContentLoaded", function() {
         
         if (supportPill) {
             supportPill.classList.toggle("active", isSupportActive);
+        }
+        
+        if (skillsPill) {
+            skillsPill.classList.toggle("active", isSkillsActive);
         }
     }
 
@@ -910,6 +949,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     const categoryId = getCommunityCategoryId();
                     const eventsSolutionId = getEventsSolutionId();
                     const zendeskSubdomain = getZendeskSubdomain();
+                    const skillsId = getSkillsId();
                     const isSupport = isSupportSection();
                     
                     if (solutionId && key === "dashboard") {
@@ -928,7 +968,10 @@ document.addEventListener("DOMContentLoaded", function() {
                         } else if (key === "help" && !isSupport) {
                             anchor.classList.add("active");
                         }
-                    } else if (!solutionId && !categoryId && !eventsSolutionId && !zendeskSubdomain && currentUrl === link) {
+                    } else if (skillsId && key === "skills") {
+                        // Active if we're on a skills page with matching ID
+                        anchor.classList.add("active");
+                    } else if (!solutionId && !categoryId && !eventsSolutionId && !zendeskSubdomain && !skillsId && currentUrl === link) {
                         // Fallback to URL matching if none of the special cases apply
                         anchor.classList.add("active");
                     }
