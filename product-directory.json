@@ -240,6 +240,7 @@
                     "help": "iqm-pro",
                     "skills": "33"
                 },
+                "community_id": [248, 249, 250],
                 "quick_links": {
                     "ask_question": "https://community.ideagen.com/topic/new?fid=42",
                     "new_ticket": "https://iqm-pro.help.ideagen.com/hc/requests/new",
