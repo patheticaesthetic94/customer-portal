@@ -32,7 +32,16 @@
                 "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_generic.svg",
                 "logo": ""
             },
+            "id": {
+                "home": "inphase",
+                "community": "248",
+                "discussions": "249",
+                "events": "inphase",
+                "help": "inphase"
+            },
+            "community_id": [248, 249, 250],
             "url": {
+                "community": "https://ideagen-en-community.almostinsided.com/inphase-248",
                 "help": "https://inphase.help.ideagen.com/hc",
                 "support": "https://inphase.help.ideagen.com/hc/support"
             }
@@ -240,7 +249,6 @@
                     "help": "ideagen1559902641",
                     "skills": "33"
                 },
-                "community_id": [248, 249, 250],
                 "quick_links": {
                     "ask_question": "https://community.ideagen.com/topic/new?fid=42",
                     "new_ticket": "https://iqm-pro.help.ideagen.com/hc/requests/new",
