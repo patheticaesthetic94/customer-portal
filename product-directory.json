@@ -146,9 +146,17 @@
                 "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_coruson.svg",
                 "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenCoruson.svg"
             },
+            "id": {
+                "home": "coruson",
+                "community": "102",
+                "discussions": "104",
+                "help": "coruson",
+                "skills": "47"
+            },
             "url": {
                 "community": "https://community.ideagen.com/ideagen-coruson-102",
                 "help": "https://coruson.help.ideagen.com/hc",
+                "skills": "https://community.ideagen.com/p/skills?solution=coruson",
                 "support": "https://coruson.help.ideagen.com/hc/support"
             }
         },
