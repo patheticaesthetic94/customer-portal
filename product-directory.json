@@ -10,7 +10,7 @@
             "url": {
                 "community": "https://community.ideagen.com/ideagen-audit-analytics-85",
                 "help": "https://auditanalytics.help.ideagen.com/hc",
-                "support": "https://auditanalytics.help.ideagen.com/hc/support"
+                "support": "https://auditanalytics.help.ideagen.com/hc/p/support"
             }
         },
         "CompliSpace": {
@@ -22,7 +22,7 @@
             },
             "url": {
                 "help": "https://complispace.help.ideagen.com/hc",
-                "support": "https://complispace.help.ideagen.com/hc/support"
+                "support": "https://complispace.help.ideagen.com/hc/p/support"
             }
         },
         "InPhase": {
@@ -43,7 +43,7 @@
             "url": {
                 "community": "https://ideagen-en-community.almostinsided.com/inphase-248",
                 "help": "https://inphase.help.ideagen.com/hc",
-                "support": "https://inphase.help.ideagen.com/hc/support"
+                "support": "https://inphase.help.ideagen.com/hc/p/support"
             }
         },
         "Internal Audit and Risk Management": {
@@ -55,7 +55,7 @@
             },
             "url": {
                 "help": "https://auditrisk.help.ideagen.com/hc",
-                "support": "https://auditrisk.help.ideagen.com/hc/support"
+                "support": "https://auditrisk.help.ideagen.com/hc/p/support"
             }
         },
         "Internal Audit": {
@@ -96,7 +96,7 @@
             },
             "url": {
                 "help": "https://riskmanagement.help.ideagen.com/hc",
-                "support": "https://riskmanagement.help.ideagen.com/hc/support"
+                "support": "https://riskmanagement.help.ideagen.com/hc/p/support"
             }
         }
     },
@@ -110,7 +110,7 @@
             },
             "url": {
                 "help": "https://dart.help.ideagen.com/hc",
-                "support": "https://dart.help.ideagen.com/hc/support"
+                "support": "https://dart.help.ideagen.com/hc/p/support"
             }
         },
         "Medforce": {
@@ -122,7 +122,7 @@
             },
             "url": {
                 "help": "https://medforce.help.ideagen.com/hc",
-                "support": "https://medforce.help.ideagen.com/hc/support"
+                "support": "https://medforce.help.ideagen.com/hc/p/support"
             }
         },
         "PatientFirst": {
@@ -134,7 +134,7 @@
             },
             "url": {
                 "help": "https://patientfirst.help.ideagen.com/hc",
-                "support": "https://patientfirst.help.ideagen.com/hc/support"
+                "support": "https://patientfirst.help.ideagen.com/hc/p/support"
             }
         }
     },
@@ -157,7 +157,7 @@
                 "community": "https://community.ideagen.com/ideagen-coruson-102",
                 "help": "https://coruson.help.ideagen.com/hc",
                 "skills": "https://community.ideagen.com/p/skills?solution=coruson",
-                "support": "https://coruson.help.ideagen.com/hc/support"
+                "support": "https://coruson.help.ideagen.com/hc/p/support"
             }
         },
         "Smartforms": {
@@ -198,7 +198,7 @@
             },
             "url": {
                 "help": "https://ism.help.ideagen.com/hc",
-                "support": "https://ism.help.ideagen.com/hc/support"
+                "support": "https://ism.help.ideagen.com/hc/p/support"
             }
         },
         "Quality Control": {
@@ -224,7 +224,7 @@
                 },
                 "url": {
                     "help": "https://iqc-ent.help.ideagen.com/hc",
-                    "support": "https://iqc-ent.help.ideagen.com/hc/support"
+                    "support": "https://iqc-ent.help.ideagen.com/hc/p/support"
                 }
             },
             "Essentials": {
@@ -298,7 +298,7 @@
             },
             "url": {
                 "help": "https://qualsys.help.ideagen.com/hc",
-                "support": "https://qualsys.help.ideagen.com/hc/support"
+                "support": "https://qualsys.help.ideagen.com/hc/p/support"
             }
         }
     },
@@ -312,7 +312,7 @@
             },
             "url": {
                 "help": "https://easysite.help.ideagen.com/hc",
-                "support": "https://easysite.help.ideagen.com/hc/support"
+                "support": "https://easysite.help.ideagen.com/hc/p/support"
             }
         },
         "Huddle™": {
@@ -337,7 +337,7 @@
             },
             "url": {
                 "help": "https://mailmanager.help.ideagen.com/hc",
-                "support": "https://mailmanager.help.ideagen.com/hc/support"
+                "support": "https://mailmanager.help.ideagen.com/hc/p/support"
             }
         },
         "PleaseReview": {
@@ -350,7 +350,7 @@
             "url": {
                 "community": "https://community.ideagen.com/ideagen-pleasereview-46",
                 "help": "https://pleasereview.help.ideagen.com/hc",
-                "support": "https://pleasereview.help.ideagen.com/hc/support"
+                "support": "https://pleasereview.help.ideagen.com/hc/p/support"
             }
         }
     },
@@ -364,7 +364,7 @@
             },
             "url": {
                 "help": "https://disclose.help.ideagen.com/hc",
-                "support": "https://disclose.help.ideagen.com/hc/support"
+                "support": "https://disclose.help.ideagen.com/hc/p/support"
             }
         },
         "Q-Pulse Law": {
@@ -377,7 +377,7 @@
             },
             "url": {
                 "help": "https://qpulseehs.help.ideagen.com/hc",
-                "support": "https://qpulseehs.help.ideagen.com/hc/support"
+                "support": "https://qpulseehs.help.ideagen.com/hc/p/support"
             }
         },
         "WorkRite": {
@@ -390,7 +390,7 @@
             "url": {
                 "community": "https://community.ideagen.com/ideagen-workrite-57",
                 "help": "https://workrite.help.ideagen.com/hc",
-                "support": "https://workrite.help.ideagen.com/hc/support"
+                "support": "https://workrite.help.ideagen.com/hc/p/support"
             }
         }
     },
@@ -406,7 +406,7 @@
             "url": {
                 "community": "https://community.ideagen.com/ideagen-ehs-59",
                 "help": "https://ehs.help.ideagen.com/hc",
-                "support": "https://ehs.help.ideagen.com/hc/support"
+                "support": "https://ehs.help.ideagen.com/hc/p/support"
             }
         },
         "OSHENS": {
@@ -418,7 +418,7 @@
             },
             "url": {
                 "help": "https://oshens.help.ideagen.com/hc",
-                "support": "https://oshens.help.ideagen.com/hc/support"
+                "support": "https://oshens.help.ideagen.com/hc/p/support"
             }
         },
         "Plant Assessor": {
@@ -430,7 +430,7 @@
             },
             "url": {
                 "help": "https://plantassessor.help.ideagen.com/hc",
-                "support": "https://plantassessor.help.ideagen.com/hc/support"
+                "support": "https://plantassessor.help.ideagen.com/hc/p/support"
             }
         },
         "Q-Pulse EHS": {
@@ -443,7 +443,7 @@
             },
             "url": {
                 "help": "https://qpulseehs.help.ideagen.com/hc",
-                "support": "https://qpulseehs.help.ideagen.com/hc/support"
+                "support": "https://qpulseehs.help.ideagen.com/hc/p/support"
             }
         },
         "Tritan": {
@@ -460,7 +460,7 @@
             "url": {
                 "dashboard": "https://community.ideagen.com/p/for-you?solution=tritan",
                 "help": "https://tritan.help.ideagen.com/hc",
-                "support": "https://tritan.help.ideagen.com/hc/support"
+                "support": "https://tritan.help.ideagen.com/hc/p/support"
             }
         }
     },
@@ -474,7 +474,7 @@
             },
             "url": {
                 "help": "https://academy.help.ideagen.com/hc",
-                "support": "https://academy.help.ideagen.com/hc/support"
+                "support": "https://academy.help.ideagen.com/hc/p/support"
             }
         }
     }
