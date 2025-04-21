@@ -53,8 +53,14 @@
                 "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_internalauditandriskmanagement.svg",
                 "logo": ""
             },
+            "id": {
+                "home": "auditrisk",
+                "skills": "46",
+                "help": "auditrisk"
+            },
             "url": {
                 "help": "https://auditrisk.help.ideagen.com/hc",
+                "skills": "https://community.ideagen.com/p/skills?solution=auditrisk",
                 "support": "https://auditrisk.help.ideagen.com/hc/p/support"
             }
         },
