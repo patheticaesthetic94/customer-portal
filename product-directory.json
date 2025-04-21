@@ -86,8 +86,14 @@
                     "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_internalaudit.svg",
                     "logo": ""
                 },
+                "id": {
+                    "home": "internalaudit-mk",
+                    "skills": "48",
+                    "help": "internalaudit-mk"
+                },
                 "url": {
                     "help": "https://internalaudit-mk.help.ideagen.com/hc",
+                    "skills": "https://community.ideagen.com/p/skills?solution=internalaudit-mk",
                     "support": "https://internalaudit-mk.help.ideagen.com/hc/p/support"
                 }
             }
