@@ -322,9 +322,17 @@
                 "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_huddle.svg",
                 "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenHuddle.svg"
             },
+            "id": {
+                "home": "huddle",
+                "community": "55",
+                "discussions": "72",
+                "help": "huddle",
+                "skills": "44"
+            },
             "url": {
                 "community": "https://community.ideagen.com/ideagen-huddle-55",
                 "help": "https://huddle.zendesk.com/hc",
+                "skills": "https://community.ideagen.com/p/skills?solution=huddle".
                 "support": "https://huddle.zendesk.com/hc/en-us/requests/new"
             }
         },
