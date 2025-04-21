@@ -421,9 +421,17 @@
                 "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_workrite.svg",
                 "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenWorkRite.svg"
             },
+            "id": {
+                "home": "workrite",
+                "community": "57",
+                "discussions": "76",
+                "help": "workrite",
+                "skills": "43"
+            },
             "url": {
                 "community": "https://community.ideagen.com/ideagen-workrite-57",
                 "help": "https://workrite.help.ideagen.com/hc",
+                "skills": "https://community.ideagen.com/p/skills?solution=workrite",
                 "support": "https://workrite.help.ideagen.com/hc/p/support"
             }
         }
