@@ -99,15 +99,21 @@
             }
         },
         "Risk Management": {
-            "alt-names": ["pentana risk", "pentana performance"],
+            "alt-names": ["pentana risk", "pentana performance", "covalent"],
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/c43597632d96d278e12e649ed852bac6a4ad60a8.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_riskmanagement.svg",
                 "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_riskmanagement.svg",
                 "logo": ""
             },
+            "id": {
+                "home": "riskmanagement",
+                "skills": "45",
+                "help": "riskmanagement"
+            },
             "url": {
                 "help": "https://riskmanagement.help.ideagen.com/hc",
+                "skills": "https://community.ideagen.com/p/skills?solution=riskmanagement",
                 "support": "https://riskmanagement.help.ideagen.com/hc/p/support"
             }
         }
