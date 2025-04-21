@@ -367,9 +367,17 @@
                 "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_pleasereview.svg",
                 "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenPleaseReview.svg"
             },
+            "id": {
+                "home": "pleasereview",
+                "community": "46",
+                "discussions": "48",
+                "help": "pleasereview",
+                "skills": "31"
+            },
             "url": {
                 "community": "https://community.ideagen.com/ideagen-pleasereview-46",
                 "help": "https://pleasereview.help.ideagen.com/hc",
+                "skills": "https://community.ideagen.com/p/skills?solution=pleasereview",
                 "support": "https://pleasereview.help.ideagen.com/hc/p/support"
             }
         }
