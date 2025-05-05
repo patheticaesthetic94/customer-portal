@@ -1,6 +1,6 @@
 {
   "generic": {
-    "enabled": false,
+    "enabled": true,
     "message": "Welcome to Ideagen Luminate. Your new self-service portal for everything customer at Ideagen!",
     "url": "",
     "date_on": "05052025",
