@@ -67,6 +67,7 @@
         "Internal Audit": {
             "Internal Audit": {
                 "alt-names": ["pentana audit"],
+                "legacy_name": "Pentana Audit",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/55a6be2da7c311cdf93881ad262a272a8ad4ec55.svg",
                     "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_internalaudit.svg",
@@ -80,6 +81,7 @@
             },
             "Internal Audit MK": {
                 "alt-names": ["pentana audit mk", "morgan kai insight", "mkinsight"],
+                "legacy_name": "Pentana Audit MK",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/55a6be2da7c311cdf93881ad262a272a8ad4ec55.svg",
                     "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_internalaudit.svg",
@@ -296,6 +298,7 @@
             },
             "Essentials": {
                 "alt-names": ["qualtrax"],
+                "legacy_name": "Qualtrax",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/fa6fe74c30f4f71d1003b8cb1998312665b93e4f.svg",
                     "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_qualitymanagement.svg",
@@ -442,6 +445,7 @@
     "EHS": {
         "EHS": {
             "alt-names": ["processmap", "process map"],
+            "legacy_name": "ProcessMAP",
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/a101e3e01e2dcd26f28341e6137f097ecb62e47e.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_ehs.svg",
