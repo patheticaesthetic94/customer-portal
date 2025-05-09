@@ -228,7 +228,7 @@
         },
         "Quality Control": {
             "Professional": {
-                "alt-names": ["inspectionxpert", "ixcloud", "inspection", "expert", "xpert" "inspectionexpert"],
+                "alt-names": ["inspectionxpert", "ixcloud", "inspection", "expert", "xpert", "inspectionexpert"],
                 "legacy_name": "InspectionXpert 2.0",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/a13cc16996e13b1df453292a58c3d0ead95f2b4b.svg",
@@ -255,7 +255,7 @@
                 }
             },
             "Essentials": {
-                "alt-names": ["inspectionxpert", "ixcloud", "inspection", "expert", "xpert" "inspectionexpert"],
+                "alt-names": ["inspectionxpert", "ixcloud", "inspection", "expert", "xpert", "inspectionexpert"],
                 "legacy_name": "InspectionXpert 3.0",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/a13cc16996e13b1df453292a58c3d0ead95f2b4b.svg",
