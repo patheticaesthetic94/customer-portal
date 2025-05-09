@@ -184,7 +184,7 @@
         "Smartforms": {
             "Professional": {
                 "alt-names": ["mobile impact platform", "mi-co", "mico", "mi co"],
-                "legacy_name": "Mobile Impact Platform (Mi-Co)",
+                "legacy_name": "Mobile Impact Platform",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/82ba1a93e35c6cb6944bead89b86d85db0d2671a.svg",
                     "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_smartforms.svg",
@@ -242,7 +242,7 @@
             },
             "Enterprise": {
                 "alt-names": ["qpm", "fair", "ppap"],
-                "legacy_name": "QPM (Including FAIR & PPAP)",
+                "legacy_name": "QPM",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/a13cc16996e13b1df453292a58c3d0ead95f2b4b.svg",
                     "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_qualitycontrol.svg",
