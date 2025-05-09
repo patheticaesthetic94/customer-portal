@@ -184,6 +184,7 @@
         "Smartforms": {
             "Professional": {
                 "alt-names": ["mobile impact platform", "mi-co", "mico", "mi co"],
+                "legacy_name": "Mobile Impact Platform (Mi-Co)",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/82ba1a93e35c6cb6944bead89b86d85db0d2671a.svg",
                     "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_smartforms.svg",
@@ -197,7 +198,8 @@
                 }
             },
             "Essentials": {
-                "alt-names": ["mobile impact platform", "mi-co", "mico", "mi co"],
+                "alt-names": ["opsbase", "ops", "base"],
+                "legacy_name": "OpsBase",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/82ba1a93e35c6cb6944bead89b86d85db0d2671a.svg",
                     "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_smartforms.svg",
@@ -211,6 +213,8 @@
             }
         },
         "Supplier Management": {
+            "alt-names": ["qadex"],
+            "legacy_name": "Qadex",
             "images": {
                 "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_generic.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_generic.svg",
@@ -224,7 +228,8 @@
         },
         "Quality Control": {
             "Professional": {
-                "alt-names": ["inspectionxpert", "ixcloud", "q-pulse supplier portal", "sp", "pm"],
+                "alt-names": ["inspectionxpert", "ixcloud", "inspection", "expert", "xpert" "inspectionexpert"],
+                "legacy_name": "InspectionXpert 2.0",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/a13cc16996e13b1df453292a58c3d0ead95f2b4b.svg",
                     "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_qualitycontrol.svg",
@@ -236,7 +241,8 @@
                 }
             },
             "Enterprise": {
-                "alt-names": ["inspectionxpert", "ixcloud", "q-pulse supplier portal", "sp", "pm"],
+                "alt-names": ["qpm", "fair", "ppap"],
+                "legacy_name": "QPM (Including FAIR & PPAP)",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/a13cc16996e13b1df453292a58c3d0ead95f2b4b.svg",
                     "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_qualitycontrol.svg",
@@ -249,7 +255,8 @@
                 }
             },
             "Essentials": {
-                "alt-names": ["inspectionxpert", "ixcloud", "q-pulse supplier portal", "sp", "pm"],
+                "alt-names": ["inspectionxpert", "ixcloud", "inspection", "expert", "xpert" "inspectionexpert"],
+                "legacy_name": "InspectionXpert 3.0",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/a13cc16996e13b1df453292a58c3d0ead95f2b4b.svg",
                     "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_qualitycontrol.svg",
@@ -263,7 +270,7 @@
         },
         "Quality Management": {
             "Professional": {
-                "alt-names": ["q-pulse", "qpulse", "iqm pro", "cloud", "legacy"],
+                "alt-names": ["q-pulse", "qpulse", "iqm pro", "cloud", "7", "6"],
                 "legacy_name": "Q-Pulse QMS",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/fa6fe74c30f4f71d1003b8cb1998312665b93e4f.svg",
@@ -408,7 +415,7 @@
             }
         },
         "Q-Pulse Law": {
-            "alt-names": ["ehs scannell"],
+            "alt-names": ["ehs scannell", "qpulse", "scannell"],
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/21b64cab39cca53a829c92bf5be7df22e31902ce.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_qpulselaw.svg",
@@ -421,6 +428,7 @@
             }
         },
         "WorkRite": {
+            "alt-names": ["qpulse workrite", "q-pulse workrite", "posturite"],
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/9165acd83ee62a3749832b0b3cc95f67d43f9586.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_workrite.svg",
