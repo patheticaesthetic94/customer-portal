@@ -415,7 +415,7 @@
             }
         },
         "Q-Pulse Law": {
-            "alt-names": ["ehs scannell", "qpulse", "scannell"],
+            "alt-names": ["ehs scannel", "qpulse", "scannel"],
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/21b64cab39cca53a829c92bf5be7df22e31902ce.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_qpulselaw.svg",
@@ -491,7 +491,8 @@
             }
         },
         "Q-Pulse EHS": {
-            "alt-names": ["ehs scannell"],
+            "alt-names": ["ehs scannel", "scannel", "qpulse"],
+            "legacy_name": "Scannel",
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/43f3148f4d4707427a9d0d35bb39dd02b2d33a4f.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_qpulseehs.svg",
