@@ -416,6 +416,7 @@
         },
         "Q-Pulse Law": {
             "alt-names": ["ehs scannel", "qpulse", "scannel"],
+            "legacy_name": "a module of Scannel",
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/21b64cab39cca53a829c92bf5be7df22e31902ce.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_qpulselaw.svg",
