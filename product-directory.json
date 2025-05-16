@@ -270,7 +270,7 @@
         },
         "Quality Management": {
             "Professional": {
-                "alt-names": ["q-pulse", "qpulse", "iqm pro", "cloud", "7", "6"],
+                "alt-names": ["q-pulse", "qpulse", "iqm pro", "cloud", "7", "6", "qpulse cloud", "q-pulse cloud", "qplus", "q-plus"],
                 "legacy_name": "Q-Pulse QMS",
                 "images": {
                     "icon": "https://theme.zdassets.com/theme_assets/9314887/fa6fe74c30f4f71d1003b8cb1998312665b93e4f.svg",
