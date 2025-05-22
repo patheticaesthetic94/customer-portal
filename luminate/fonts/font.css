@@ -10,6 +10,14 @@
   font-family: "Gilroy";
   src: url("https://patheticaesthetic94.github.io/customer-portal/luminate/fonts/gilroy-regular.woff");
   font-style: normal;
+  font-weight: 300;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("https://patheticaesthetic94.github.io/customer-portal/luminate/fonts/gilroy-medium.woff");
+  font-style: normal;
   font-weight: 400;
   font-display: fallback;
 }
@@ -22,33 +30,6 @@
   font-display: fallback;
 }
 
-/*@font-face {
-  font-family: "Gilroy";
-  src: url("https://theme.zdassets.com/theme_assets/9314887/9904784ad8fcb03acf6b0c8808e3d1c179546b97.woff2"),
-    url("https://theme.zdassets.com/theme_assets/9314887/8ee1dae697cca90321045475801f22a4e66f3b45.woff");
-  font-style: italic;
-  font-weight: 500;
-  font-display: fallback;
-}
-
-@font-face {
-  font-family: "Gilroy";
-  src: url("https://theme.zdassets.com/theme_assets/9314887/86192659d5460e4bd719110147c0a36ffb393544.woff"),
-    url("https://theme.zdassets.com/theme_assets/9314887/a130fc4c4fd466109e665381b3063810b10b7d24.woff2");
-  font-style: normal;
-  font-weight: 500;
-  font-display: fallback;
-}
-
-@font-face {
-  font-family: "Gilroy";
-  src: url("https://theme.zdassets.com/theme_assets/9314887/13c8ad5049c219094b9418527dd1502c08d959c6.woff2"),
-    url("https://theme.zdassets.com/theme_assets/9314887/801fd6e6d6ba84b26edca6eae9ee098c24a5f206.woff");
-  font-style: italic;
-  font-weight: 500;
-  font-display: fallback;
-}*/
-
 @font-face {
   font-family: "Gilroy";
   src: url("https://patheticaesthetic94.github.io/customer-portal/luminate/fonts/gilroy-semibold.woff");
@@ -57,15 +38,6 @@
   font-display: fallback;
 }
 
-/*@font-face {
-  font-family: "Gilroy";
-  src: url("https://theme.zdassets.com/theme_assets/9314887/6602d262eb7689a232f97fbd5feb07463c5449a8.woff2"),
-    url("https://theme.zdassets.com/theme_assets/9314887/f4273d51ef213778678668617c92c9d343e26a7d.woff");
-  font-style: italic;
-  font-weight: 600;
-  font-display: fallback;
-}*/
-
 @font-face {
   font-family: "Gilroy";
   src: url("https://patheticaesthetic94.github.io/customer-portal/luminate/fonts/gilroy-bold.woff");
@@ -73,12 +45,3 @@
   font-weight: 700;
   font-display: fallback;
 }
-
-/*@font-face {
-  font-family: "Gilroy";
-  src: url("https://theme.zdassets.com/theme_assets/9314887/0c5a6c2cf46f447ed87402195ffa695595ad844b.woff2"),
-    url("https://theme.zdassets.com/theme_assets/9314887/8ad65efd9b54a54234d66cf04e5dcdb91cfdb59c.woff");
-  font-style: italic;
-  font-weight: 700;
-  font-display: fallback;
-}*/
