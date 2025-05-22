@@ -1,7 +1,6 @@
 @font-face {
   font-family: "Ideagen";
-  src: url("https://theme.zdassets.com/theme_assets/9314887/a0305f2cebc95b718fd9f6b7e1c26f9822508015.woff"),
-    url("https://theme.zdassets.com/theme_assets/9314887/a0305f2cebc95b718fd9f6b7e1c26f9822508015.woff");
+  src: url("https://theme.zdassets.com/theme_assets/9314887/a0305f2cebc95b718fd9f6b7e1c26f9822508015.woff");
   font-style: normal;
   font-weight: 300;
   font-display: fallback;
@@ -9,14 +8,13 @@
 
 @font-face {
   font-family: "Gilroy";
-  src: url("https://theme.zdassets.com/theme_assets/9314887/8331e6748a30d3a6315b191d7f7c58ee08b909b8.woff2"),
-    url("https://theme.zdassets.com/theme_assets/9314887/8331e6748a30d3a6315b191d7f7c58ee08b909b8.woff2");
+  src: url("https://patheticaesthetic94.github.io/customer-portal/luminate/fonts/gilroy-regular.woff");
   font-style: normal;
   font-weight: 500;
   font-display: fallback;
 }
 
-@font-face {
+/*@font-face {
   font-family: "Gilroy";
   src: url("https://theme.zdassets.com/theme_assets/9314887/9904784ad8fcb03acf6b0c8808e3d1c179546b97.woff2"),
     url("https://theme.zdassets.com/theme_assets/9314887/8ee1dae697cca90321045475801f22a4e66f3b45.woff");
@@ -41,40 +39,38 @@
   font-style: italic;
   font-weight: 500;
   font-display: fallback;
-}
+}*/
 
 @font-face {
   font-family: "Gilroy";
-  src: url("https://theme.zdassets.com/theme_assets/9314887/e4ff0495648ce2a25d71a55165fcb1c79ff27029.woff2"),
-    url("https://theme.zdassets.com/theme_assets/9314887/5b49011fc2a5b3a608a5176d39b63f59bbe3e932.woff");
+  src: url("https://patheticaesthetic94.github.io/customer-portal/luminate/fonts/gilroy-semibold.woff");
   font-style: normal;
   font-weight: 600;
   font-display: fallback;
 }
 
-@font-face {
+/*@font-face {
   font-family: "Gilroy";
   src: url("https://theme.zdassets.com/theme_assets/9314887/6602d262eb7689a232f97fbd5feb07463c5449a8.woff2"),
     url("https://theme.zdassets.com/theme_assets/9314887/f4273d51ef213778678668617c92c9d343e26a7d.woff");
   font-style: italic;
   font-weight: 600;
   font-display: fallback;
-}
+}*/
 
 @font-face {
   font-family: "Gilroy";
-  src: url("https://theme.zdassets.com/theme_assets/9314887/ed989d2846b7ecb96e6abf60e1e67f5fa44179d4.woff"),
-    url("https://theme.zdassets.com/theme_assets/9314887/dc7b94ace757da119fbf017d9d2da541f02b693f.woff2");
+  src: url("https://patheticaesthetic94.github.io/customer-portal/luminate/fonts/gilroy-bold.woff");
   font-style: normal;
   font-weight: 700;
   font-display: fallback;
 }
 
-@font-face {
+/*@font-face {
   font-family: "Gilroy";
   src: url("https://theme.zdassets.com/theme_assets/9314887/0c5a6c2cf46f447ed87402195ffa695595ad844b.woff2"),
     url("https://theme.zdassets.com/theme_assets/9314887/8ad65efd9b54a54234d66cf04e5dcdb91cfdb59c.woff");
   font-style: italic;
   font-weight: 700;
   font-display: fallback;
-}
+}*/
