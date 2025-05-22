@@ -1,6 +1,5 @@
 @font-face {
   font-family: "Ideagen";
-  /* src: local("Ideagen"), local("Ideagen"); */
   src: url("https://theme.zdassets.com/theme_assets/9314887/a0305f2cebc95b718fd9f6b7e1c26f9822508015.woff"),
     url("https://theme.zdassets.com/theme_assets/9314887/a0305f2cebc95b718fd9f6b7e1c26f9822508015.woff");
   font-style: normal;
@@ -10,37 +9,33 @@
 
 @font-face {
   font-family: "Gilroy";
-  /* src: local("Gilroy Regular"), local("gilroy-regular"); */
   src: url("https://theme.zdassets.com/theme_assets/9314887/8331e6748a30d3a6315b191d7f7c58ee08b909b8.woff2"),
     url("https://theme.zdassets.com/theme_assets/9314887/8331e6748a30d3a6315b191d7f7c58ee08b909b8.woff2");
   font-style: normal;
-  font-weight: 300;
+  font-weight: 500;
   font-display: fallback;
 }
 
 @font-face {
   font-family: "Gilroy";
-  /* src: local("Gilroy Regular Italic"), local("gilroy-regularitalic"); */
   src: url("https://theme.zdassets.com/theme_assets/9314887/9904784ad8fcb03acf6b0c8808e3d1c179546b97.woff2"),
     url("https://theme.zdassets.com/theme_assets/9314887/8ee1dae697cca90321045475801f22a4e66f3b45.woff");
   font-style: italic;
-  font-weight: 300;
+  font-weight: 500;
   font-display: fallback;
 }
 
 @font-face {
   font-family: "Gilroy";
-  /* src: local("Gilroy Medium"), local("gilroy-medium"); */
   src: url("https://theme.zdassets.com/theme_assets/9314887/86192659d5460e4bd719110147c0a36ffb393544.woff"),
     url("https://theme.zdassets.com/theme_assets/9314887/a130fc4c4fd466109e665381b3063810b10b7d24.woff2");
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
   font-display: fallback;
 }
 
 @font-face {
   font-family: "Gilroy";
-  /* src: local("Gilroy Medium Italic"), local("gilroy-mediumitalic"); */
   src: url("https://theme.zdassets.com/theme_assets/9314887/13c8ad5049c219094b9418527dd1502c08d959c6.woff2"),
     url("https://theme.zdassets.com/theme_assets/9314887/801fd6e6d6ba84b26edca6eae9ee098c24a5f206.woff");
   font-style: italic;
@@ -50,7 +45,6 @@
 
 @font-face {
   font-family: "Gilroy";
-  /* src: local("Gilroy SemiBold"), local("gilroy-semibold"); */
   src: url("https://theme.zdassets.com/theme_assets/9314887/e4ff0495648ce2a25d71a55165fcb1c79ff27029.woff2"),
     url("https://theme.zdassets.com/theme_assets/9314887/5b49011fc2a5b3a608a5176d39b63f59bbe3e932.woff");
   font-style: normal;
@@ -60,7 +54,6 @@
 
 @font-face {
   font-family: "Gilroy";
-  /* src: local("Gilroy SemiBold Italic"), local("gilroy-semibolditalic"); */
   src: url("https://theme.zdassets.com/theme_assets/9314887/6602d262eb7689a232f97fbd5feb07463c5449a8.woff2"),
     url("https://theme.zdassets.com/theme_assets/9314887/f4273d51ef213778678668617c92c9d343e26a7d.woff");
   font-style: italic;
@@ -70,7 +63,6 @@
 
 @font-face {
   font-family: "Gilroy";
-  /* src: local("Gilroy Bold"), local("gilroy-bold"); */
   src: url("https://theme.zdassets.com/theme_assets/9314887/ed989d2846b7ecb96e6abf60e1e67f5fa44179d4.woff"),
     url("https://theme.zdassets.com/theme_assets/9314887/dc7b94ace757da119fbf017d9d2da541f02b693f.woff2");
   font-style: normal;
@@ -80,7 +72,6 @@
 
 @font-face {
   font-family: "Gilroy";
-  /* src: local("Gilroy Bold Italic"), local("gilroy-bolditalic"); */
   src: url("https://theme.zdassets.com/theme_assets/9314887/0c5a6c2cf46f447ed87402195ffa695595ad844b.woff2"),
     url("https://theme.zdassets.com/theme_assets/9314887/8ad65efd9b54a54234d66cf04e5dcdb91cfdb59c.woff");
   font-style: italic;
