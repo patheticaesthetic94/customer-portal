@@ -10,6 +10,14 @@
   font-family: "Gilroy";
   src: url("https://patheticaesthetic94.github.io/customer-portal/luminate/fonts/gilroy-regular.woff");
   font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url("https://patheticaesthetic94.github.io/customer-portal/luminate/fonts/gilroy-medium.woff");
+  font-style: normal;
   font-weight: 500;
   font-display: fallback;
 }
