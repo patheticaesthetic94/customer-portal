@@ -40,7 +40,7 @@
                 "events": "inphase",
                 "help": "inphase"
             },
-            "community_id": [248, 249, 250],
+            "community_id": [248, 249, 250, 260, 259, 261],
             "url": {
                 "community": "https://ideagen-en-community.almostinsided.com/inphase-248",
                 "help": "https://inphase.help.ideagen.com/hc",
