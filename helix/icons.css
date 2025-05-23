@@ -1,3 +1,12 @@
+.i-pages-light {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: currentColor;
+    mask-image: url('data:image/svg+xml,<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.00549 3.85074C4.08183 2.81588 4.94564 2 6 2H4C2.89543 2 2 2.89543 2 4V20C2 21.1046 2.89543 22 4 22H6L5.85074 21.9945C4.81588 21.9182 4 21.0544 4 20V4L4.00549 3.85074ZM17 13H9V11H17V13ZM9 17H15V15H9V17ZM17.586 2.586C17.211 2.211 16.702 2 16.172 2H7C5.896 2 5 2.896 5 4V20C5 21.104 5.896 22 7 22H19C20.104 22 21 21.104 21 20V6.829C21 6.298 20.789 5.789 20.414 5.414L17.586 2.586ZM19 20H7V4H15V8H19V20Z" fill="%232F4051"/></svg>');
+}
 .i-shield {
     display: inline-block;
     width: 24px;
