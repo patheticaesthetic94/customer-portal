@@ -1,3 +1,12 @@
+.i-quote-open {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: currentColor;
+    mask-image: url('data:image/svg+xml,<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M9.99951 6.634C8.34551 8.015 7.30651 9.902 7.30651 12H10.9995V18H4.99951V12C4.99951 9.231 6.42451 6.745 8.69251 5L9.99951 6.634ZM17.9995 6.634C16.3455 8.015 15.3065 9.902 15.3065 12H18.9995V18H12.9995V12C12.9995 9.231 14.4245 6.745 16.6925 5L17.9995 6.634Z" fill="%232F4051"/></svg>');
+}
 .i-stop {
     display: inline-block;
     width: 24px;
