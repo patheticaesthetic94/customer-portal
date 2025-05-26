@@ -1,3 +1,12 @@
+.i-tick {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: currentColor;
+    mask-image: url('data:image/svg+xml,<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M8.99973 15.8879L19.4995 4.9996L20.9995 6.5556L9.30458 18.6843L9 19.0004L3 12.7774L4.5 11.2224L8.99973 15.8879Z" fill="%232F4051"/></svg>');
+}
 .i-preferences {
     display: inline-block;
     width: 24px;
