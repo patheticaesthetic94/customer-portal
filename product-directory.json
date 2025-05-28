@@ -23,6 +23,7 @@
                 "logo": ""
             },
             "url": {
+                "community": "https://community.ideagen.com/complispace-112",
                 "help": "https://complispace.help.ideagen.com/hc",
                 "support": "https://complispace.help.ideagen.com/hc/p/support"
             }
@@ -44,7 +45,7 @@
             },
             "community_id": [248, 249, 250, 260, 259, 261],
             "url": {
-                "community": "https://ideagen-en-community.almostinsided.com/inphase-248",
+                "community": "https://community.ideagen.com/inphase-109",
                 "help": "https://inphase.help.ideagen.com/hc",
                 "support": "https://inphase.help.ideagen.com/hc/p/support"
             }
