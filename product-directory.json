@@ -407,6 +407,18 @@
         }
     },
     "Compliance": {
+        "Op Central": {
+            "images": {
+                "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_generic.svg",
+                "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_generic.svg",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_generic.svg",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://opcentral.help.ideagen.com/hc",
+                "support": "https://opcentral.help.ideagen.com/hc/p/support"
+            }
+        },
         "Disclose": {
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/d2bea7d59c19cae158920f0664a0e638d390ac2b.svg",
