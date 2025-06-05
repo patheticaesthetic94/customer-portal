@@ -69,7 +69,6 @@
             }
         },
         "Internal Audit": {
-            "description": "Here is a description",
             "Internal Audit": {
                 "alt-names": ["pentana audit"],
                 "legacy_name": "Pentana Audit",
