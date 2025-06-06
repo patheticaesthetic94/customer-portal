@@ -15,7 +15,7 @@
             }
         },
         "CompliSpace": {
-            "description": "Policy to culture via learning, assurance, and reporting.",
+            "description": "Platform using policy, learning, assurance & reporting to drive compliance culture.",
             "images": {
                 "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_complispace.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_complispace.svg",
@@ -127,6 +127,7 @@
     },
     "Clinical": {
         "Dart": {
+            "description": "A suite of clinical workflow solutions aquired by Ideagen in 2012.",
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/53a6597e9320647f6419ca30dfd21483a4aa57df.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_dart.svg",
@@ -165,7 +166,7 @@
     },
     "Quality": {
         "Coruson": {
-            "description": "Enterprise cloud software for real-time safety and risk control.",
+            "description": "Cloud-based platform for safety, compliance & risk management in high-risk industries.",
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/8424b69563b35bb6fb8b28491a29b844246e82c8.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_coruson.svg",
@@ -340,6 +341,7 @@
     },
     "Collaboration": {
         "EasySite": {
+            "description": "Cloud CMS for managing websites, intranets & extranets across regulated industries.",
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/9701266ab51096c6ef996ef42dba57d651358a52.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_easysite.svg",
@@ -420,6 +422,7 @@
             }
         },
         "Disclose": {
+            "description": "Tool to streamline financial statement and disclosure preparation.",
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/d2bea7d59c19cae158920f0664a0e638d390ac2b.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_disclose.svg",
