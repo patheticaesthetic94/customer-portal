@@ -29,6 +29,7 @@
             }
         },
         "InPhase": {
+            "description": "Risk-based quality management software for life sciences & regulated industries.",
             "images": {
                 "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_generic.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_generic.svg",
@@ -388,6 +389,7 @@
             }
         },
         "PleaseReview": {
+            "description": "Secure platform for collaborative document review & redaction at scale.",
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/169137d600bb16aa14ff655a77d4fd1ea46a9e14.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_pleasereview.svg",
@@ -450,6 +452,7 @@
             }
         },
         "WorkRite": {
+            "description": "Compliant e-Learning LMS for staff training & workplace safety.",
             "alt-names": ["qpulse workrite", "q-pulse workrite", "posturite"],
             "images": {
                 "icon": "https://theme.zdassets.com/theme_assets/9314887/9165acd83ee62a3749832b0b3cc95f67d43f9586.svg",
