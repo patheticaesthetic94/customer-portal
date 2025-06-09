@@ -86,7 +86,7 @@
                 }
             },
             "Internal Audit MK": {
-                "description": "An internal audit solution acquired in 2018.",
+                "description": "Internal audit management software solution acquired in 2018.",
                 "alt-names": ["pentana audit mk", "morgan kai insight", "mkinsight"],
                 "legacy_name": "Pentana Audit MK",
                 "images": {
