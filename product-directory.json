@@ -51,7 +51,7 @@
                 "support": "https://inphase.help.ideagen.com/hc/p/support"
             }
         },
-        "Internal Audit and Risk Management": {
+        " Audit and Risk Management": {
             "images": {
                 "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_auditandrisk.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_internalauditandriskmanagement.svg",
@@ -71,6 +71,7 @@
         },
         "Internal Audit": {
             "Internal Audit": {
+                "description": "End-to-end audit management platform for internal assurance teams.",
                 "alt-names": ["pentana audit"],
                 "legacy_name": "Pentana Audit",
                 "images": {
@@ -85,6 +86,7 @@
                 }
             },
             "Internal Audit MK": {
+                "description": "An internal audit solution acquired in 2018.",
                 "alt-names": ["pentana audit mk", "morgan kai insight", "mkinsight"],
                 "legacy_name": "Pentana Audit MK",
                 "images": {
