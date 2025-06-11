@@ -30,7 +30,7 @@
         },
         "InPhase": {
             "description": "Risk-based quality management software for life sciences & regulated industries.",
-            "fedramp": true,
+            "fedramp": false,
             "images": {
                 "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_generic.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_generic.svg",
