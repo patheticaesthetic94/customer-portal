@@ -51,6 +51,13 @@
                 "community": "https://community.ideagen.com/inphase-109",
                 "help": "https://inphase.help.ideagen.com/hc",
                 "support": "https://inphase.help.ideagen.com/hc/p/support"
+            },
+            "banner": {
+                "enabled": true,
+                "message": "Welcome to Ideagen Luminate. Your brand new self-service portal for everything customer at Ideagen!",
+                "url": "https://community.ideagen.com",
+                "date_on": "16052025",
+                "date_off": "20062025"
             }
         },
         " Audit and Risk Management": {
