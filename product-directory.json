@@ -54,7 +54,7 @@
             },
             "banner": {
                 "enabled": true,
-                "message": "Welcome to Ideagen Luminate. Your brand new self-service portal for everything customer at Ideagen!",
+                "message": "This is a banner specifically designed for InPhase for product-specific messaging.",
                 "url": "https://community.ideagen.com",
                 "date_on": "16052025",
                 "date_off": "20062025"
