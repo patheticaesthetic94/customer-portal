@@ -53,7 +53,7 @@
                 "support": "https://inphase.help.ideagen.com/hc/p/support"
             },
             "banner": {
-                "enabled": true,
+                "enabled": false,
                 "message": "This is a banner specifically designed for InPhase for product-specific messaging.",
                 "url": "https://community.ideagen.com",
                 "date_on": "16052025",
