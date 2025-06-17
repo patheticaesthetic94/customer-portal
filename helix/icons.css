@@ -1,3 +1,12 @@
+.i-folder {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: currentColor;
+    mask-image: url('data:image/svg+xml,<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 4H20C21.104 4 22 4.896 22 6V18C22 19.104 21.104 20 20 20H4C2.896 20 2 19.104 2 18V2H10L12 4ZM20 6V18H4V6H20Z" fill="%232F4051"/></svg>');
+}
 .i-file-email {
     display: inline-block;
     width: 24px;
