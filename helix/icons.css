@@ -1,3 +1,12 @@
+.i-file-email {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: currentColor;
+    mask-image: url('data:image/svg+xml,<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 5H20C21.104 5 22 5.896 22 7V8H20V7H4V19H6V21H4C2.896 21 2 20.104 2 19V3H10L12 5Z" fill="%232F4051"/><path fill-rule="evenodd" clip-rule="evenodd" d="M20.5 9C21.3284 9 22 9.67157 22 10.5V19.5C22 20.3284 21.3284 21 20.5 21H8.5C7.67157 21 7 20.3284 7 19.5V10.5C7 9.67157 7.67157 9 8.5 9H20.5ZM8.5625 18.7188C8.5625 19.133 8.89829 19.4688 9.3125 19.4688H19.8125C20.2266 19.4686 20.5625 19.1329 20.5625 18.7188V12.2686L15.6875 16.8047C15.0714 17.3777 14.0884 17.3914 13.4912 16.8359L8.5625 12.25V18.7188ZM9.80664 10.4541C9.49864 10.7407 9.4906 11.1987 9.78906 11.4766L14.0312 15.4248C14.3299 15.7026 14.8219 15.6948 15.1299 15.4082L19.3379 11.4922C19.6457 11.2056 19.6536 10.7486 19.3555 10.4707L19.2754 10.3955H9.86914L9.80664 10.4541Z" fill="%232F4051"/></svg>');
+}
 .i-reviews {
     display: inline-block;
     width: 24px;
