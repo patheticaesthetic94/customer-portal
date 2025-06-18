@@ -489,6 +489,19 @@
         }
     },
     "EHS": {
+        "Damstra": {
+            "description": "GRC workforce management platform for safety & compliance in regulated sectors.",
+            "images": {
+                "icon": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_damstra.svg",
+                "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_damstra.svg",
+                "ident": "",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://damstra.zendesk.com/hc/en-us",
+                "support": "https://damstra.zendesk.com/hc/en-us/requests/new"
+            }
+        },
         "EHS": {
             "description": "Integrated incident reporting & safety management platform for risk control.",
             "alt-names": ["processmap", "process map"],
