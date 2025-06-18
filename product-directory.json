@@ -492,9 +492,9 @@
         "Damstra": {
             "description": "GRC workforce management platform for safety & compliance in regulated sectors.",
             "images": {
-                "icon": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_damstra.svg",
+                "icon": "",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_damstra.svg",
-                "ident": "",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_damstra.svg",
                 "logo": ""
             },
             "url": {
