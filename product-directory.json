@@ -489,6 +489,19 @@
         }
     },
     "EHS": {
+        "Lucidity": {
+            "description": "GRC software for streamlined compliance & risk management in regulated industries.",
+            "images": {
+                "icon": "",
+                "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_generic.svg",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_generic.svg",
+                "logo": ""
+            },
+            "url": {
+                "help": "https://lucidity.help.ideagen.com/hc",
+                "support": "https://lucidity.help.ideagen.com/hc/p/support"
+            }
+        },
         "Damstra": {
             "description": "GRC workforce management platform for safety & compliance in regulated sectors.",
             "images": {
