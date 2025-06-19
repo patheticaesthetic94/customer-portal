@@ -31,7 +31,6 @@
         "InPhase": {
             "description": "Risk-based quality management software for life sciences & regulated industries.",
             "fedramp": false,
-            "legacy_name": "Quartz",
             "images": {
                 "icon": "https://dkzqv2h4biivh.cloudfront.net/ecosystem/idents/IDENT_generic.svg",
                 "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_generic.svg",
@@ -256,7 +255,9 @@
                     "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityControlProfessional.svg"
                 },
                 "url": {
-                    "community": "https://community.ideagen.com/ideagen-quality-control-professional-105"
+                    "community": "https://community.ideagen.com/ideagen-quality-control-professional-105",
+                    "help": "https://help.inspectionxpert.com/",
+                    "support": "https://help.inspectionxpert.com/kb-tickets/new"
                 }
             },
             "Enterprise": {
@@ -283,7 +284,9 @@
                     "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityControlProfessional.svg"
                 },
                 "url": {
-                    "community": "https://community.ideagen.com/ideagen-quality-control-essentials-95"
+                    "community": "https://community.ideagen.com/ideagen-quality-control-essentials-95",
+                    "help": "https://help.inspectionxpert.com/",
+                    "support": "https://help.inspectionxpert.com/kb-tickets/new"
                 }
             }
         },
@@ -387,6 +390,20 @@
                 "help": "https://huddle.zendesk.com/hc",
                 "skills": "https://community.ideagen.com/p/skills?solution=huddle",
                 "support": "https://huddle.zendesk.com/hc/en-us/requests/new"
+            }
+        },
+        "OnePlace": {
+            "description": "User-friendly business tools that streamline workflows & boost productivity.",
+            "images": {
+                "icon": "",
+                "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_oneplace.svg",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_oneplace.svg",
+                "logo": ""
+            },
+            "url": {
+                "community": "https://feedback.oneplacesolutions.com/",
+                "help": "https://help.oneplacesolutions.com/index.html",
+                "support": "https://www.oneplacesolutions.com/premium-support.html"
             }
         },
         "Mail Manager": {
