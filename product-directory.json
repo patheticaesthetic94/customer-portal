@@ -630,5 +630,17 @@
                 "support": "https://academy.help.ideagen.com/hc/p/support"
             }
         }
+        "Supplier Portal": {
+            "description": "Web platform for supplier collaboration on procurement & compliance tasks.",
+            "images": {
+                "icon": "",
+                "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_generic.svg",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_generic.svg",
+                "logo": ""
+            },
+            "url": {
+                "support": "https://help.ideagen.com/hc/requests/new"
+            }
+        }
     }
 }
