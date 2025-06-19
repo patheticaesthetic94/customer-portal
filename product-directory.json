@@ -489,6 +489,18 @@
         }
     },
     "EHS": {
+        "Devonway": {
+            "description": "Suite of solutions for EHS, quality, asset & workforce management",
+            "images": {
+                "icon": "",
+                "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_devonway.svg",
+                "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_devonway.svg",
+                "logo": ""
+            },
+            "url": {
+                "support": "https://tw.devonway.com/trakway/login"
+            }
+        },
         "Lucidity": {
             "description": "GRC software for streamlined compliance & risk management in regulated industries.",
             "images": {
