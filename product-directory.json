@@ -22,9 +22,18 @@
                 "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_complispace.svg",
                 "logo": ""
             },
+            "id": {
+                "home": "complispace",
+                "community": "112",
+                "discussions": "114",
+                "updates": "113",
+                "help": "complispace",
+                "skills": "50"
+            },
             "url": {
                 "community": "https://community.ideagen.com/complispace-112",
                 "help": "https://complispace.help.ideagen.com/hc",
+                "skills": "https://luminate.ideagen.com/p/skills?solution=complispace",
                 "support": "https://complispace.help.ideagen.com/hc/p/support"
             }
         },
@@ -195,7 +204,7 @@
             "url": {
                 "community": "https://community.ideagen.com/ideagen-coruson-102",
                 "help": "https://coruson.help.ideagen.com/hc",
-                "skills": "https://community.ideagen.com/p/skills?solution=coruson",
+                "skills": "https://luminate.ideagen.com/p/skills?solution=coruson",
                 "support": "https://coruson.help.ideagen.com/hc/p/support"
             }
         },
@@ -322,7 +331,7 @@
                     "community": "https://community.ideagen.com/ideagen-quality-management-professional-40",
                     "events": "https://ideagen-en-community.almostinsided.com/events?solution=iqm-pro&tab=upcoming",
                     "help": "https://ideagen1559902641.zendesk.com/hc/en-gb",
-                    "skills": "https://skills.ideagen.com/catalog/offset/0,undefined/category/33/type/curriculum",
+                    "skills": "https://luminate.ideagen.com/p/skills?solution=iqm-pro",
                     "support": "https://ideagen1559902641.zendesk.com/hc/en-gb/p/support"
                 }
             },
