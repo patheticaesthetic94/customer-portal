@@ -58,7 +58,6 @@
             "url": {
                 "community": "https://community.ideagen.com/inphase-109",
                 "help": "https://inphase.help.ideagen.com/hc",
-                "skills": "https://luminate.ideagen.com/p/skills?solution=inphase",
                 "support": "https://inphase.help.ideagen.com/hc/p/support"
             },
             "banner": {
@@ -437,7 +436,6 @@
             },
             "url": {
                 "help": "https://mailmanager.help.ideagen.com/hc",
-                "skills": "https://luminate.ideagen.com/p/skills?solution=mailmanager",
                 "support": "https://mailmanager.help.ideagen.com/hc/p/support"
             }
         },
