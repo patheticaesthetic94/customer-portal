@@ -83,7 +83,7 @@
             },
             "url": {
                 "help": "https://auditrisk.help.ideagen.com/hc",
-                "skills": "https://community.ideagen.com/p/skills?solution=auditrisk",
+                "skills": "https://luminate.ideagen.com/p/skills?solution=auditrisk",
                 "support": "https://auditrisk.help.ideagen.com/hc/p/support"
             }
         },
@@ -120,7 +120,7 @@
                 },
                 "url": {
                     "help": "https://internalaudit-mk.help.ideagen.com/hc",
-                    "skills": "https://community.ideagen.com/p/skills?solution=internalaudit-mk",
+                    "skills": "https://luminate.ideagen.com/p/skills?solution=internalaudit-mk",
                     "support": "https://internalaudit-mk.help.ideagen.com/hc/p/support"
                 }
             }
@@ -141,7 +141,7 @@
             },
             "url": {
                 "help": "https://riskmanagement.help.ideagen.com/hc",
-                "skills": "https://community.ideagen.com/p/skills?solution=riskmanagement",
+                "skills": "https://luminate.ideagen.com/p/skills?solution=riskmanagement",
                 "support": "https://riskmanagement.help.ideagen.com/hc/p/support"
             }
         }
@@ -344,6 +344,14 @@
                     "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_qualitymanagement.svg",
                     "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenQualityManagementProfessional.svg"
                 },
+                "id": {
+                    "home": "iqm-ess",
+                    "community": "81",
+                    "discussions": "83",
+                    "updates": "82",
+                    "help": "iqm-ess",
+                    "skills": "52"
+                },
                 "url": {
                     "community": "https://community.ideagen.com/ideagen-quality-management-essentials-81",
                     "help": "https://iqm-ess.help.ideagen.com/hc",
@@ -422,8 +430,14 @@
                 "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_mailmanager.svg",
                 "logo": ""
             },
+            "id": {
+                "home": "mailmanager",
+                "help": "mailmanager",
+                "skills": "51"
+            },
             "url": {
                 "help": "https://mailmanager.help.ideagen.com/hc",
+                "skills": "https://luminate.ideagen.com/p/skills?solution=mailmanager",
                 "support": "https://mailmanager.help.ideagen.com/hc/p/support"
             }
         },
@@ -445,7 +459,7 @@
             "url": {
                 "community": "https://community.ideagen.com/ideagen-pleasereview-46",
                 "help": "https://pleasereview.help.ideagen.com/hc",
-                "skills": "https://community.ideagen.com/p/skills?solution=pleasereview",
+                "skills": "https://luminate.ideagen.com/p/skills?solution=pleasereview",
                 "support": "https://pleasereview.help.ideagen.com/hc/p/support"
             }
         }
@@ -509,7 +523,7 @@
             "url": {
                 "community": "https://community.ideagen.com/ideagen-workrite-57",
                 "help": "https://workrite.help.ideagen.com/hc",
-                "skills": "https://community.ideagen.com/p/skills?solution=workrite",
+                "skills": "https://luminate.ideagen.com/p/skills?solution=workrite",
                 "support": "https://workrite.help.ideagen.com/hc/p/support"
             }
         }
