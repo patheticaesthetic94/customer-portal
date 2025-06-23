@@ -51,14 +51,14 @@
                 "community": "248",
                 "discussions": "249",
                 "updates": "250",
-                "events": "inphase",
-                "help": "inphase"
+                "help": "inphase",
+                "skills": "49"
             },
             "community_id": [248, 249, 250, 260, 259, 261],
             "url": {
                 "community": "https://community.ideagen.com/inphase-109",
                 "help": "https://inphase.help.ideagen.com/hc",
-                "skills": "https://skills.ideagen.com",
+                "skills": "https://luminate.ideagen.com/p/skills?solution=inphase",
                 "support": "https://inphase.help.ideagen.com/hc/p/support"
             },
             "banner": {
@@ -397,7 +397,7 @@
             "url": {
                 "community": "https://community.ideagen.com/ideagen-huddle-55",
                 "help": "https://huddle.zendesk.com/hc",
-                "skills": "https://community.ideagen.com/p/skills?solution=huddle",
+                "skills": "https://luminate.ideagen.com/p/skills?solution=huddle",
                 "support": "https://huddle.zendesk.com/hc/en-us/requests/new"
             }
         },
@@ -563,9 +563,18 @@
                 "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_ehs.svg",
                 "logo": "https://dkzqv2h4biivh.cloudfront.net/images/products/logos/ideagenEHS.svg"
             },
+            "id": {
+                "home": "ehs",
+                "community": "59",
+                "discussions": "68",
+                "updates": "60",
+                "help": "ehs",
+                "skills": "53"
+            },
             "url": {
                 "community": "https://community.ideagen.com/ideagen-ehs-59",
                 "help": "https://ehs.help.ideagen.com/hc",
+                "skills": "https://luminate.ideagen.com/p/skills?solution=ehs",
                 "support": "https://ehs.help.ideagen.com/hc/p/support"
             }
         },
