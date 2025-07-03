@@ -88,6 +88,13 @@
         },
         "Internal Audit": {
             "Internal Audit": {
+                "description": "New world product.",
+                "url": {
+                    "help": "https://auditrisk.help.ideagen.com/hc",
+                    "support": "https://auditrisk.help.ideagen.com/hc/p/support"
+                }
+            },
+            "Internal Audit": {
                 "description": "End-to-end audit management platform for internal assurance teams.",
                 "alt-names": ["pentana audit"],
                 "legacy_name": "Pentana Audit",
