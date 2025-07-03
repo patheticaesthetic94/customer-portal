@@ -87,8 +87,14 @@
             }
         },
         "Internal Audit": {
-            "Internal Audit": {
+            "Internal Audit (New)": {
                 "description": "New world product.",
+                "images": {
+                    "icon": "https://theme.zdassets.com/theme_assets/9314887/55a6be2da7c311cdf93881ad262a272a8ad4ec55.svg",
+                    "icon_white": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/icons_white/icon_internalaudit.svg",
+                    "ident": "https://patheticaesthetic94.github.io/customer-portal/ecosystem/product/icon_internalaudit.svg",
+                    "logo": ""
+                },
                 "url": {
                     "help": "https://auditrisk.help.ideagen.com/hc",
                     "support": "https://auditrisk.help.ideagen.com/hc/p/support"
