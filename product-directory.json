@@ -32,6 +32,7 @@
             },
             "url": {
                 "community": "https://community.ideagen.com/complispace-112",
+                "events": "https://ideagen-en-sandbox-community.insided.com/events?tab=upcoming",
                 "help": "https://complispace.help.ideagen.com/hc",
                 "skills": "https://luminate.ideagen.com/p/skills?solution=complispace",
                 "support": "https://complispace.help.ideagen.com/hc/p/support"
