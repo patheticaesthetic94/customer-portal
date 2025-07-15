@@ -32,7 +32,6 @@
             },
             "url": {
                 "community": "https://community.ideagen.com/complispace-112",
-                "events": "https://ideagen-en-sandbox-community.insided.com/events?tab=upcoming",
                 "help": "https://complispace.help.ideagen.com/hc",
                 "skills": "https://luminate.ideagen.com/p/skills?solution=complispace",
                 "support": "https://complispace.help.ideagen.com/hc/p/support"
@@ -59,6 +58,7 @@
             "community_id": [248, 249, 250, 260, 259, 261],
             "url": {
                 "community": "https://community.ideagen.com/inphase-109",
+                "events": "https://ideagen-en-sandbox-community.insided.com/events?tab=upcoming",
                 "help": "https://inphase.help.ideagen.com/hc",
                 "support": "https://inphase.help.ideagen.com/hc/p/support"
             },
