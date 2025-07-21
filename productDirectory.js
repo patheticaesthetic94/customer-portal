@@ -2,17 +2,23 @@ document.addEventListener("DOMContentLoaded", function () {
     document.addEventListener("AppDataUpdated", function () {
         // Read initial state from URL
         const urlParams = new URLSearchParams(window.location.search);
+        const swapTabs = document.querySelector(".widget.switch-tabs");
         let activeTab;
         if (window.location.href.includes("/community")) {
             activeTab = urlParams.get("tab") || "community";
+            swapTabs.remove();
         } else if (window.location.href.includes("/p/skills")) {
             activeTab = urlParams.get("tab") || "skills";
+            swapTabs.remove();
         } else if (window.location.href.includes("help.ideagen.com/hc")) {
             activeTab = urlParams.get("tab") || "help";
+            swapTabs.remove();
         } else if (window.location.href.includes("/events")) {
             activeTab = urlParams.get("tab") || "events";
+            swapTabs.remove();
         } else if (window.location.href.includes("/p/support")) {
             activeTab = urlParams.get("tab") || "support";
+            swapTabs.remove();
         } else {
             activeTab = urlParams.get("tab") || "all";
         }
