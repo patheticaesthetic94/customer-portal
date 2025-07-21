@@ -216,7 +216,7 @@ function createProductElement(container, category, name, edition, data, hasEditi
     const element = document.createElement(isClickable ? "a" : "div");
     if (isClickable) {
         element.href = productUrl;
-        if (productUrl !== "#" && !productUrl.includes("ideagen.com")) {
+        if (productUrl !== "#" && !(productUrl.includes("ideagen.com") || productUrl.includes("insided.com"))) {
             element.target = "_blank";
         }
         
