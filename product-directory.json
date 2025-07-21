@@ -48,14 +48,14 @@
             },
             "id": {
                 "home": "inphase",
-                "community": "248",
-                "discussions": "249",
-                "updates": "250",
+                "community": "31",
+                "discussions": "33",
+                "updates": "32",
                 "help": "inphase",
                 "events_tag": "InPhase",
                 "skills": "49"
             },
-            "community_id": [248, 249, 250, 260, 259, 261],
+            "community_id": [31, 32, 33],
             "url": {
                 "community": "https://community.ideagen.com/inphase-109",
                 "events": "https://ideagen-en-sandbox-community.insided.com/events?tab=upcoming",
