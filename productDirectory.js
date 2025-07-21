@@ -347,7 +347,7 @@ if (legacyNames.length > 0) {
         chevronIcon.className = "i-expand-modal";
         chevronIcon.id = "editionsChevron";
         prodIdDiv.appendChild(chevronIcon);
-    } else if (!productUrl.includes("ideagen.com")) {
+    } else if (!(productUrl.includes("ideagen.com") || productUrl.includes("insided.com"))) {
         const externalLinkIcon = document.createElement("i");
         externalLinkIcon.className = "i-external-link";
         externalLinkIcon.id = "externalLink";
