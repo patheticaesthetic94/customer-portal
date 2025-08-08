@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
         } else if (window.location.href.includes("/p/skills")) {
             activeTab = urlParams.get("tab") || "skills";
             swapTabs.remove();
-        } else if (window.location.href.includes("help.ideagen.com/hc")) {
+        } else if (window.location.href.includes("help.ideagen.com/hc") && !window.location.href.includes("/p/support")) {
             activeTab = urlParams.get("tab") || "help";
             swapTabs.remove();
         } else if (window.location.href.includes("/events")) {
@@ -376,7 +376,7 @@ function showEditionsPopup(category, name, productData) {
 
     const helpDesc = document.createElement("blockquote");
     helpDesc.className = "tip";
-    helpDesc.innerHTML = `To determine which solution you're using, navigate to the about section within your solution for detailed product information`;
+    helpDesc.innerHTML = `Visit the about section of your current solution to identify which one you're using.`;
 
     const separator = document.createElement("hr");
     
