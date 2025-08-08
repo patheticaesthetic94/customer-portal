@@ -309,18 +309,21 @@ if (hasEditions) {
 if (legacyNames.length > 0) {
     const legacySpan = document.createElement("span");
     legacySpan.className = "prod-legacyName";
+
+    let legacyText = legacyNames.length === 1 ? `Formerly ${legacyNames[0]}` : "Contains solutions with former names";
     
-    let legacyText = "Formerly ";
-    if (legacyNames.length === 1) {
-        legacyText += legacyNames[0];
-    } else {
-        // Join with commas and use "&" before last item
-        legacyText += legacyNames.slice(0, -1).join(", ");
-        if (legacyNames.length > 2) {
-            legacyText += ","; // Oxford comma
-        }
-        legacyText += ` & ${legacyNames[legacyNames.length - 1]}`;
-    }
+    // let legacyText = "Formerly ";
+    // if (legacyNames.length === 1) {
+    //     legacyText += legacyNames[0];
+    // } 
+    // else {
+    //     // Join with commas and use "&" before last item
+    //     legacyText += legacyNames.slice(0, -1).join(", ");
+    //     if (legacyNames.length > 2) {
+    //         legacyText += ","; // Oxford comma
+    //     }
+    //     legacyText += ` & ${legacyNames[legacyNames.length - 1]}`;
+    // }
     
     legacySpan.textContent = legacyText;
     nameWrapper.appendChild(legacySpan);
@@ -330,7 +333,7 @@ if (legacyNames.length > 0) {
 
     const description = document.createElement("span");
     description.className = "prod-description";
-    description.textContent = hasEditions ? `The ${name} suite contains multiple editions to choose from.` : data.description;
+    description.textContent = hasEditions ? `Multiple solutions are available in the ${name} suite.` : data.description;
 
     const separator = document.createElement("hr");
 
@@ -369,7 +372,7 @@ function showEditionsPopup(category, name, productData) {
     closeButton.addEventListener("click", () => document.body.removeChild(popup));
     
     const title = document.createElement("h3");
-    title.textContent = `${name} Editions`;
+    title.textContent = `${name} Solutions`;
 
     const helpDesc = document.createElement("span");
     helpDesc.innerHTML = `Check the about section of your solution to discover the edition of your product`;
@@ -427,7 +430,7 @@ function showEditionsPopup(category, name, productData) {
         editionnameWrapper.className = "prod-name-wrapper";
         const editionnameSpan = document.createElement("span");
         editionnameSpan.className = "prod-name";
-        editionnameSpan.textContent = name === "Internal Audit" && editionName ? editionName : editionName ? `${name}: ${editionName}` : name;
+        editionnameSpan.textContent = editionName && editionName.trim() !== "" ? `${name} \u2022 ${editionName}` : name;
         editionnameWrapper.appendChild(editionnameSpan);
     
         // Legacy name handling
@@ -460,7 +463,7 @@ function showEditionsPopup(category, name, productData) {
         if (!productUrl.includes("ideagen.com")) {
             const externalIcon = document.createElement("i");
             externalIcon.className = "i-external-link";
-            editionButton.appendChild(externalIcon);
+            editionnameWrapper.appendChild(externalIcon);
         }
         
         editionsContainer.appendChild(editionButton);
