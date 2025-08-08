@@ -466,6 +466,7 @@ function showEditionsPopup(category, name, productData) {
             externalIcon.className = "i-external-link";
             externalIcon.id = "externalLink";
             editionprodIdDiv.appendChild(externalIcon);
+            externalIcon.style.display = "block";
         }
         
         editionsContainer.appendChild(editionButton);
