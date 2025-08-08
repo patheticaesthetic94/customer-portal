@@ -464,6 +464,7 @@ function showEditionsPopup(category, name, productData) {
         if (!productUrl.includes("ideagen.com")) {
             const externalIcon = document.createElement("i");
             externalIcon.className = "i-external-link";
+            externalIcon.id = "externalLink";
             editionprodIdDiv.appendChild(externalIcon);
         }
         
