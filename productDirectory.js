@@ -374,8 +374,9 @@ function showEditionsPopup(category, name, productData) {
     const title = document.createElement("h3");
     title.textContent = `${name} Solutions`;
 
-    const helpDesc = document.createElement("span");
-    helpDesc.innerHTML = `Check the about section of your solution to discover the edition of your product`;
+    const helpDesc = document.createElement("blockquote");
+    helpDesc.className = "tip";
+    helpDesc.innerHTML = `To determine which solution you're using, navigate to the about section within your solution for detailed product information`;
 
     const separator = document.createElement("hr");
     
